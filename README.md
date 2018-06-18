@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 
 This is an implementation of Opinion Mining, ie. fetching tweets from your Twitter Account using the official Twitter API Tweepy.<br />
-It uses TextBlob library that helps us find the polarity of a sentence by tokenizing it and applying Natural Language Techniques to determine the polarity. <br />
+It uses TextBlob library that helps us find the polarity of a sentence by tokenizing it and applying Natural Language Techniques. <br />
 
 ## Important packages to run this file: 
 Tweepy (http://docs.tweepy.org/en/v3.4.0/install.html), TextBlob(http://textblob.readthedocs.io/en/dev/install.html) and re (https://pypi.org/project/re2/) <br />
